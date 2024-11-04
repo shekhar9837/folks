@@ -44,7 +44,7 @@ const HeroSection = () => {
           className="md:h-screen h-[24rem]  w-full md:object-fill object-cover md:pl-4 md:pb-8  md:rounded-b-[198px] rounded-b-[90px] z-0"
         />
         <Image
-          src="/assets/vector.png"
+          src="/assets/Vector.png"
           width={1920}
           height={1080}
           alt="vector"
