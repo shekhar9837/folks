@@ -57,6 +57,7 @@ const Article = () => {
       <div className="flex items-start w-full px-20 ">
         <h1 className="text-primary text-[2rem] font-bold mb-10">
           Latest Articles
+          
         </h1>
       </div>
       <div className="grid md:grid-cols-3 grid-cols-1 gap-6 mb-4">
